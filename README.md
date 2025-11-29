@@ -8,6 +8,7 @@ Interactive Python visualizations of linear algebra concepts.
 - Determinant and linear independence
 
 ## Quick Start
-```python
+```bash
 pip install numpy matplotlib
 python transformations.py
+```
