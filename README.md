@@ -62,22 +62,3 @@ Matplotlib
 Inspirado pela incrível série "Essence of Linear Algebra" do 3Blue1Brown
 
 
----
-
-## **Para adicionar as imagens:**
-
-Você precisa fazer upload das imagens para a raiz do repositório:
-
-1. **Clique em "Add file" → "Upload files"**
-2. **Arraste os 3 arquivos PNG:**
-   - `vetor_simples.png`
-   - `vetor_decomposto.png` 
-   - `linear_transformation.png`
-3. **Commit message:** `Add visualization screenshots`
-4. **Marque:** "Commit directly to the main branch"
-
----
-
-## **Estrutura final ficará assim:**
-
-
